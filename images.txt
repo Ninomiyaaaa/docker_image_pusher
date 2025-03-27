@@ -17,6 +17,9 @@
 #mongo
 #jlesage/filebot
 #haishanh/yacd
+#node
+#python
+
 
 dickhub/docker-osx
 
