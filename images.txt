@@ -21,7 +21,7 @@
 node
 python
 
-dickhub/docker-osx
+#dickhub/docker-osx
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
